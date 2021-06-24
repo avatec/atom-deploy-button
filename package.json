@@ -1,0 +1,52 @@
+{
+  "_from": "https://www.atom.io/api/packages/deploy-button/versions/0.1.0/tarball",
+  "_id": "deploy-button@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-slHA3We8MaErQCWmv7i55oXKxn408RNunCjHq90yCYzY/3wfpFSh8FUUpyoRjZ36+oR7EBOZXIUcJ2u7DLTtKQ==",
+  "_location": "/deploy-button",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/deploy-button/versions/0.1.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/deploy-button/versions/0.1.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/deploy-button/versions/0.1.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/deploy-button/versions/0.1.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/deploy-button/versions/0.1.0/tarball",
+  "_shasum": "0b82159c1b661f154754192ce13156f0d0bd3411",
+  "_spec": "https://www.atom.io/api/packages/deploy-button/versions/0.1.0/tarball",
+  "_where": "/private/var/folders/k5/7qvcvwjj14sg7y9hf3qks5gh0000gn/T/apm-install-dir-2021524-19272-17urnyb.nbfi",
+  "bugs": {
+    "url": "https://github.com/avatec/atom-deploy-button/issues"
+  },
+  "bundleDependencies": false,
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
+  },
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Adds a deploy button to your status bar.",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/avatec/atom-deploy-button#readme",
+  "keywords": [
+    "reload"
+  ],
+  "license": "MIT",
+  "main": "./lib/deploy-button",
+  "name": "deploy-button",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avatec/atom-deploy-button.git"
+  },
+  "version": "0.1.0"
+}
